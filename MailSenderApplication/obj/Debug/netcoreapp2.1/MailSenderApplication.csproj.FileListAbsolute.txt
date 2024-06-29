@@ -1,0 +1,11 @@
+E:\Vikas\VikasSingh\Ado.net\MailSenderApplication\MailSenderApplication\bin\Debug\netcoreapp2.1\MailSenderApplication.deps.json
+E:\Vikas\VikasSingh\Ado.net\MailSenderApplication\MailSenderApplication\bin\Debug\netcoreapp2.1\MailSenderApplication.runtimeconfig.json
+E:\Vikas\VikasSingh\Ado.net\MailSenderApplication\MailSenderApplication\bin\Debug\netcoreapp2.1\MailSenderApplication.runtimeconfig.dev.json
+E:\Vikas\VikasSingh\Ado.net\MailSenderApplication\MailSenderApplication\bin\Debug\netcoreapp2.1\MailSenderApplication.dll
+E:\Vikas\VikasSingh\Ado.net\MailSenderApplication\MailSenderApplication\bin\Debug\netcoreapp2.1\MailSenderApplication.pdb
+E:\Vikas\VikasSingh\Ado.net\MailSenderApplication\MailSenderApplication\obj\Debug\netcoreapp2.1\MailSenderApplication.csprojAssemblyReference.cache
+E:\Vikas\VikasSingh\Ado.net\MailSenderApplication\MailSenderApplication\obj\Debug\netcoreapp2.1\MailSenderApplication.csproj.CoreCompileInputs.cache
+E:\Vikas\VikasSingh\Ado.net\MailSenderApplication\MailSenderApplication\obj\Debug\netcoreapp2.1\MailSenderApplication.AssemblyInfoInputs.cache
+E:\Vikas\VikasSingh\Ado.net\MailSenderApplication\MailSenderApplication\obj\Debug\netcoreapp2.1\MailSenderApplication.AssemblyInfo.cs
+E:\Vikas\VikasSingh\Ado.net\MailSenderApplication\MailSenderApplication\obj\Debug\netcoreapp2.1\MailSenderApplication.dll
+E:\Vikas\VikasSingh\Ado.net\MailSenderApplication\MailSenderApplication\obj\Debug\netcoreapp2.1\MailSenderApplication.pdb
